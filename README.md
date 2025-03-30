@@ -14,35 +14,7 @@ Test: 3,000 images (15%)
 
 Each subset contains subfolders representing different vegetable categories:
 
-Bean
-
-Bitter Gourd
-
-Bottle Gourd
-
-Brinjal
-
-Broccoli
-
-Cabbage
-
-Capsicum
-
-Carrot
-
-Cauliflower
-
-Cucumber
-
-Papaya
-
-Potato
-
-Pumpkin
-
-Radish
-
-Tomato
+Bean ,Bitter Gourd ,Bottle Gourd ,Brinjal ,Broccoli ,Cabbage ,Capsicum ,Carrot ,Cauliflower ,Cucumber ,Papaya ,Potato ,Pumpkin ,Radish ,Tomato
 
 🚀 Model Architecture
 
